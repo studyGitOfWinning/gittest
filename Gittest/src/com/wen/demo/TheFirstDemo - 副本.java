@@ -29,12 +29,4 @@ public class TheFirstDemo {
 	public void go(){
 		System.out.println("新增一个行动的方法");
 	}
-	
-	
-	public void go(){
-		System.out.println("新增一个行动的方法");
-	}
-	public void go(){
-		System.out.println("新增一个行动的方法");
-	}
 }
