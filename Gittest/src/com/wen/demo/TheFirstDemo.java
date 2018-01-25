@@ -41,4 +41,8 @@ public class TheFirstDemo {
 	public void go1(){
 		System.out.println("新增一个行动的方法");
 	}
+	
+	public void go_git1(){
+		System.out.println("新增一个行动的方法");
+	}
 }
